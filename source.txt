@@ -1,7 +1,1 @@
-Here is my initial entry
-
-Here is another line
-
-Here is a third line on the new master 2 branch
-
-Here is a 4th line
+This checkin is on master
