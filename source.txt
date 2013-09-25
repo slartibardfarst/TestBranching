@@ -1,5 +1,1 @@
-Here is my initial entry
-
-Here is another line
-
-Here is a third line
+Here the original code from the old master
