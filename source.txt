@@ -1,1 +1,3 @@
 Here the original code from the old master
+
+some fix for issue 53
